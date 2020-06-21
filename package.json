@@ -1,13 +1,13 @@
 {
-  "name": "compilerStylus",
-  "version": "1.0.0",
+  "name": "styluscompilergulp",
+  "version": "0.0.2",
   "main": "index.js",
   "license": "MIT",
   "scripts": {
     "build": "gulp stylus"
   },
   "keywords": [],
-  "author": "",
+  "author": "Carlos Espinoza <cpespinoza044@gmail.com>",
   "description": "",
   "devDependencies": {
     "gulp": "^4.0.2"
@@ -15,5 +15,6 @@
   "dependencies": {
     "gulp-stylus": "^2.7.0",
     "gulp-watch": "^5.0.1"
-  }
+  },
+  "repository": "git@github.com:carlos-Espinoza-perez/StylusGulp.git"
 }
