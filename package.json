@@ -1,0 +1,19 @@
+{
+  "name": "compilerStylus",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "gulp stylus"
+  },
+  "keywords": [],
+  "author": "",
+  "description": "",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  },
+  "dependencies": {
+    "gulp-stylus": "^2.7.0",
+    "gulp-watch": "^5.0.1"
+  }
+}
